@@ -1,6 +1,8 @@
 # Description
 
 WTM is a small programme written on python. It makes transcription for words.
+(Words are from language that is used in **Nier** game, in the **"Song of The Ancients"**.)
+*Language is in development.*
 
 ## Installation
 
